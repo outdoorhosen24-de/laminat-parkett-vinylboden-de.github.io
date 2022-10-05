@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "laminat-parkett-vinylboden.de",
+    "hostname": "https://www.laminat-parkett-vinylboden.de/",
+    "email": "laminat-parkett-vinylboden.desurrealnetworks.io",
+    "organization": "laminat-parkett-vinylboden.de",
+    "logoText": "Laminat-parkett-vinylboden.de",
+    "title": "Laminat, Parkett & Vinylb\u00f6den",
+    "subline": "Der Online Shop f\u00fcr Laminat, Parkett & Vinylb\u00f6den",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "6222087",
+        "6555494",
+        "7197981",
+        "5229877",
+        "4136487",
+        "6536932"
+    ],
+    "winnerProducts": [
+        "1040559",
+        "7592249",
+        "4907853"
+    ],
+    "featuredCategories": [
+        "Laminatwerkzeug & Parkettverlegewerkzeug",
+        "Korkb\u00f6den",
+        "Korkb\u00f6den",
+        "Laminat",
+        "Leisten",
+        "Laminat"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Laminat, Parkett & Vinylb\u00f6den",
-        "featureText": "Your featured text goes here",
+        "featureText": "Laminat, Parkett & Vinylb\u00f6den ist ein Shop, der sich auf Laminat, Parkett und Vinylb\u00f6den spezialisiert hat. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Bodenbel\u00e4gen und Zubeh\u00f6r. Unsere erfahrenen Mitarbeiter beraten Sie gerne bei der Auswahl des richtigen Bodenbelags f\u00fcr Ihr Zuhause.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Laminat, Parkett & Vinylb\u00f6den - der Bodenbelag-Fachhandel",
+            "metaDescription": "Laminat, Parkett & Vinylb\u00f6den - der Online-Shop f\u00fcr Ihren perfekten Boden. Jetzt kostenlos anfragen und Angebote erhalten!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Laminat, Parkett & Vinylb\u00f6den",
+                    "text": "Laminat, Parkett und Vinylb\u00f6den sind die perfekte Wahl f\u00fcr einen stilvollen, modernen und langlebigen Bodenbelag. Laminat ist ein hochwertiges Kunststoffmaterial, das in verschiedenen Holzdekoren erh\u00e4ltlich ist. Parkett ist ein massiver Holzboden, der in verschiedenen Holzarten und -farben erh\u00e4ltlich ist. Vinylb\u00f6den sind ein beliebter Bodenbelag, der in verschiedenen Designs und Farben erh\u00e4ltlich ist."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Laminat, Parkett & Vinylb\u00f6den Shop",
+            "metaDescription": "Laminat, Parkett & Vinylb\u00f6den Shop - Hier findest du eine gro\u00dfe Auswahl an verschiedenen Bodenbel\u00e4gen f\u00fcr jeden Geschmack und jeden Geldbeutel.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Laminat, Parkett & Vinylb\u00f6den: der Hersteller",
+            "metaDescription": "Laminat, Parkett & Vinylb\u00f6den - Finde den richtigen Bodenbelag f\u00fcr dein Zuhause. Entdecke die verschiedenen Bodenbel\u00e4ge von unseren Top-Marken und Manufacturers.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Laminat, Parkett & Vinylb\u00f6den",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER, $KATEGORIE - Laminat, Parkett & Vinylb\u00f6den bei OBI kaufen und bestellen.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Laminat, Parkett & Vinylb\u00f6den",
+        "defaultMetaDescription": "$KATEGORIE: Laminat, Parkett & Vinylb\u00f6den - Jetzt online kaufen bei OBI! Bei OBI finden Sie eine gro\u00dfe Auswahl an $KATEGORIE in unterschiedlichen Ausf\u00fchrungen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist f\u00fcr Laminat, Parkett & Vinylb\u00f6den. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen B\u00f6den zu g\u00fcnstigen Preisen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Laminat, Parkett & Vinylb\u00f6den",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Laminat, Parkett & Vinylb\u00f6den Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Laminat, Parkett & Vinylb\u00f6den Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
