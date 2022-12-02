@@ -51,12 +51,15 @@
             "title": "Laminat, Parkett & Vinylböden - der Bodenbelag-Fachhandel",
             "metaDescription": "Laminat, Parkett & Vinylböden - der Online-Shop für Ihren perfekten Boden. Jetzt kostenlos anfragen und Angebote erhalten!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Laminat, Parkett & Vinylböden",
-                    "text": "Laminat, Parkett und Vinylböden sind die perfekte Wahl für einen stilvollen, modernen und langlebigen Bodenbelag. Laminat ist ein hochwertiges Kunststoffmaterial, das in verschiedenen Holzdekoren erhältlich ist. Parkett ist ein massiver Holzboden, der in verschiedenen Holzarten und -farben erhältlich ist. Vinylböden sind ein beliebter Bodenbelag, der in verschiedenen Designs und Farben erhältlich ist."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Laminat, Parkett & Vinylböden",
+                        "text": "Laminat, Parkett und Vinylböden sind die perfekte Wahl für einen stilvollen, modernen und langlebigen Bodenbelag. Laminat ist ein hochwertiges Kunststoffmaterial, das in verschiedenen Holzdekoren erhältlich ist. Parkett ist ein massiver Holzboden, der in verschiedenen Holzarten und -farben erhältlich ist. Vinylböden sind ein beliebter Bodenbelag, der in verschiedenen Designs und Farben erhältlich ist."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Laminat, Parkett & Vinylböden Shop",
