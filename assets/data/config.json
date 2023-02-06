@@ -1,5 +1,5 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "laminat-parkett-vinylboden.de",
     "hostname": "https://www.laminat-parkett-vinylboden.de/",
     "email": "laminat-parkett-vinylboden.de@surrealnetworks.io",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Laminat, Parkett & Vinylböden",
-        "featureText": "Laminat, Parkett & Vinylböden ist ein Shop, der sich auf Laminat, Parkett und Vinylböden spezialisiert hat. Wir bieten eine große Auswahl an verschiedenen Bodenbelägen und Zubehör. Unsere erfahrenen Mitarbeiter beraten Sie gerne bei der Auswahl des richtigen Bodenbelags für Ihr Zuhause.",
+        "featureText": "Willkommen bei Ihrem Online-Shop für hochwertige Bodenbeläge! Entdecken Sie eine große Auswahl an Trittschalldämmung, Laminat- und Parkettwerkzeug, Vinylböden, Laminat, Zubehör, Leisten, Parkett, Korkböden und vielem mehr. Unsere Marken, wie Selit, Wolfcraft, Masterfloor, Sonstige, Excellent, Comfort, Excellent Plus, OBI, Praktikus, Parador, Classen Neo 2.0, Gerflor, Egger, LUX-TOOLS, Living by Haro, Classen, Parkett Freund, Döllken Profiles, Kaindl, Schöner Wohnen, Megafloor Laminat, Corklife und MineralPro, stehen für höchste Qualität und Langlebigkeit. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Bodenbelag für Ihr Zuhause!",
         "index": {
-            "title": "Laminat, Parkett & Vinylböden - der Bodenbelag-Fachhandel",
-            "metaDescription": "Laminat, Parkett & Vinylböden - der Online-Shop für Ihren perfekten Boden. Jetzt kostenlos anfragen und Angebote erhalten!",
+            "title": "Ihr Online-Shop für Trittschalldämmung, Laminat & Parkett",
+            "metaDescription": "Kaufen Sie hochwertige Bodenbeläge & Werkzeuge in unserem Online-Shop. Top Marken wie Parador, Classen u.v.m. Best-Preis-Garantie. Jetzt entdecken!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -67,14 +67,14 @@
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Laminat, Parkett & Vinylböden: der Hersteller",
-            "metaDescription": "Laminat, Parkett & Vinylböden - Finde den richtigen Bodenbelag für dein Zuhause. Entdecke die verschiedenen Bodenbeläge von unseren Top-Marken und Manufacturers.",
+            "title": "Übersicht aller Marken in unserem Shop für Bodenbeläge",
+            "metaDescription": "Entdecke die Markenvielfalt bei uns: Selit, Wolfcraft, Masterfloor, LUX-TOOLS, Kaindl, Schöner Wohnen, uvm. Top-Qualität zu attraktiven Preisen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Laminat, Parkett & Vinylböden",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER, $KATEGORIE - Laminat, Parkett & Vinylböden bei OBI kaufen und bestellen.",
+        "defaultTitle": "$PRODUKT | günstig kaufen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER aus der Kategorie $KATEGORIE günstig kaufen auf laminat-parkett-vinylboden.de. Schnelle Lieferung, top Preis.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Laminat, Parkett & Vinylböden",
-        "defaultMetaDescription": "$KATEGORIE: Laminat, Parkett & Vinylböden - Jetzt online kaufen bei OBI! Bei OBI finden Sie eine große Auswahl an $KATEGORIE in unterschiedlichen Ausführungen.",
+        "defaultTitle": "$KATEGORIE bei laminat-parkett-vinylboden.de kaufen",
+        "defaultMetaDescription": "Entdecken Sie unser vielfältiges Sortiment an $KATEGORIE von Top-Marken wie Parador, Egger, & Masterfloor. Jetzt günstig online shoppen!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,7 +116,7 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
+        "defaultTitle": " Laminatböden von $HERSTELLER - Top Qualität online kaufen",
         "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist für Laminat, Parkett & Vinylböden. Wir bieten Ihnen eine große Auswahl an hochwertigen Böden zu günstigen Preisen.",
         "defaultRobots": "index, follow",
         "brands": [
