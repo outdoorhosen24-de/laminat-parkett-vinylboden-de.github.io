@@ -52,11 +52,43 @@
             "metaDescription": "Kaufen Sie hochwertige Bodenbeläge & Werkzeuge in unserem Online-Shop. Top Marken wie Parador, Classen u.v.m. Best-Preis-Garantie. Jetzt entdecken!",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Laminat, Parkett & Vinylböden",
-                        "text": "Laminat, Parkett und Vinylböden sind die perfekte Wahl für einen stilvollen, modernen und langlebigen Bodenbelag. Laminat ist ein hochwertiges Kunststoffmaterial, das in verschiedenen Holzdekoren erhältlich ist. Parkett ist ein massiver Holzboden, der in verschiedenen Holzarten und -farben erhältlich ist. Vinylböden sind ein beliebter Bodenbelag, der in verschiedenen Designs und Farben erhältlich ist."
+                        "title": "Willkommen bei Laminat-Parkett-Vinylboden",
+                        "text": "Herzlich willkommen auf Laminat-Parkett-Vinylboden, Ihrem Online-Shop für hochwertige Bodenbeläge. Unsere Produkte umfassen Laminat, Parkett und Vinylböden, die Sie in verschiedenen Stilen und Farben finden können. Darüber hinaus bieten wir auch Trittschalldämmung, Werkzeuge und Zubehör für die Verlegung und den Abschluss dieser Bodenbeläge. Wir sind stolz darauf, nur die besten Produkte anzubieten, die aus hochwertigen Materialien hergestellt werden und eine lange Lebensdauer haben. Stöbern Sie durch unsere Kategorien und entdecken Sie Ihren neuen Bodenbelag bei Laminat-Parkett-Vinylboden."
+                    },
+                    {
+                        "title": "Trittschalldämmung",
+                        "text": "Wer in seinem Zuhause eine angenehme Trittschallreduzierung wünscht, sollte auf die Kategorie '<a href=\"/kategorie/trittschalldaemmung/\" title=\"Trittschalldämmung\">Trittschalldämmung</a>' achten. Wir bieten eine breite Auswahl an hochwertigen Trittschalldämmungen für alle Beläge, einschließlich Laminat, Parkett und Vinylboden. Unsere Trittschalldämmungen sorgen für eine optimale Schalldämmung und eine angenehme Atmosphäre in Ihrem Zuhause."
+                    },
+                    {
+                        "title": "Laminatwerkzeug & Parkettverlegewerkzeug",
+                        "text": "In der Kategorie '<a href=\"/kategorie/laminatwerkzeug-parkettverlegewerkzeug/\" title=\"Laminatwerkzeug & Parkettverlegewerkzeug\">Laminatwerkzeug & Parkettverlegewerkzeug</a>' finden Sie alles, was Sie für die Verlegung von Laminat- und Parkettböden benötigen. Von Zubehör wie Dichtungsstreifen und Übergangsschienen bis hin zu Spezialwerkzeugen wie Fugenschneidern und Stemmhämmern - wir haben alles, was Sie brauchen, um Ihre neuen Böden professionell zu verlegen."
+                    },
+                    {
+                        "title": "Vinylböden",
+                        "text": "In unserer Kategorie '<a href=\"/kategorie/vinylboeden/\" title=\"Vinylböden\">Vinylböden</a>' finden Sie eine große Auswahl an hochwertigen Vinylböden in verschiedenen Designs und Farben. Ob Sie nach einem robusten Bodenbelag für Ihre Küche oder einem eleganten Boden für Ihr Wohnzimmer suchen, wir haben die richtigen Vinylböden für jeden Raum und jeden Bedarf. Stöbern Sie durch unsere Produkte und finden Sie den perfekten Vinylboden für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Laminat",
+                        "text": "<a href=\"/kategorie/laminat/\" title=\"Laminat\">Laminat</a>böden sind eine hervorragende Alternative zu teureren Bodenbelägen wie Parkett oder Echtholz. Sie sehen genau so gut aus und sind einfach zu pflegen. In unserem Online-Shop finden Sie eine breite Auswahl an Laminatböden in verschiedenen Farben, Designs und Größen. Ob Sie einen modernen oder traditionellen Look bevorzugen, bei uns werden Sie fündig. Überzeugen Sie sich selbst von der hohen Qualität unserer Laminatböden."
+                    },
+                    {
+                        "title": "Zubehör für Laminat & Parkett",
+                        "text": "Um Ihren neuen Laminat- oder Parkettboden perfekt zu verlegen, benötigen Sie das richtige Zubehör. Bei uns finden Sie alles, was Sie brauchen, von Trittschalldämmung über Leisten bis hin zu Klebstoffen. Stöbern Sie in unserem Online-Shop und entdecken Sie das ideale Zubehör für Ihre Bodenverlegung. Unsere Produkte sind von hoher Qualität und sorgen dafür, dass Ihr neuer Boden perfekt verlegt wird."
+                    },
+                    {
+                        "title": "Leisten",
+                        "text": "<a href=\"/kategorie/leisten/\" title=\"Leisten\">Leisten</a> sind ein wichtiger Bestandteil bei der Verlegung von Laminat- oder Parkettböden. Sie vervollständigen das Aussehen Ihres Bodens und schützen ihn vor Schäden. Bei uns finden Sie eine große Auswahl an Leisten in verschiedenen Farben und Designs, die perfekt zu Ihrem Boden passen. Überzeugen Sie sich selbst von der hohen Qualität unserer Leisten und bestellen Sie noch heute."
+                    },
+                    {
+                        "title": "Parkett – Ein zeitloser Bodenbelag",
+                        "text": "Parkett ist ein zeitloser Bodenbelag, der sich in vielen Wohnräumen bewährt hat. Ob als Massivholzparkett oder als Fertigparkett, es gibt viele verschiedene Arten von Parkett. Unser Online-Shop bietet Ihnen eine große Auswahl an hochwertigen Parkettböden, die Ihren Wohnräumen ein stilvolles und elegantes Aussehen verleihen werden. Durch die große Auswahl an Farben, Designs und Strukturen können Sie genau das Parkett finden, das zu Ihrem Einrichtungsstil passt."
+                    },
+                    {
+                        "title": "Korkböden – Eine natürliche Alternative",
+                        "text": "Wenn Sie nach einer natürlichen Alternative zu herkömmlichen Bodenbelägen suchen, sind Korkböden eine großartige Wahl. Sie sind nicht nur ökologisch, sondern auch bequem und langlebig. Unser Online-Shop bietet Ihnen eine große Auswahl an Korkböden in verschiedenen Farben und Designs. Korkböden sind einfach zu verlegen und können einfach gereinigt werden. Zudem sind sie auch noch antistatisch und dämmend, was sie zu einer idealen Wahl für jeden Raum in Ihrem Zuhause macht."
                     }
                 ]
             }
