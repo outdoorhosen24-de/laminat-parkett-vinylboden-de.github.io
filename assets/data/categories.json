@@ -2,7 +2,7 @@
     {
         "key": "trittschalldämmung",
         "name": "Trittschalldämmung",
-        "slug": "trittschalldammung",
+        "slug": "trittschalldaemmung",
         "productCategory": "Trittschalldämmung",
         "subCategories": []
     },
@@ -16,7 +16,7 @@
     {
         "key": "vinylböden",
         "name": "Vinylböden",
-        "slug": "vinylboden",
+        "slug": "vinylboeden",
         "productCategory": "Vinylböden",
         "subCategories": []
     },
@@ -30,7 +30,7 @@
     {
         "key": "zubehör für laminat & parkett",
         "name": "Zubehör für Laminat & Parkett",
-        "slug": "zubehor-fur-laminat-parkett",
+        "slug": "zubehoer-fuer-laminat-parkett",
         "productCategory": "Zubehör für Laminat & Parkett",
         "subCategories": []
     },
@@ -51,7 +51,7 @@
     {
         "key": "korkböden",
         "name": "Korkböden",
-        "slug": "korkboden",
+        "slug": "korkboeden",
         "productCategory": "Korkböden",
         "subCategories": []
     }
