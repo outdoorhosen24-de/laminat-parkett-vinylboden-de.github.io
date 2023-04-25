@@ -1,196 +1,199 @@
 {
-    "configIsReady": true,
-    "domain": "laminat-parkett-vinylboden.de",
-    "hostname": "https://www.laminat-parkett-vinylboden.de/",
-    "email": "laminat-parkett-vinylboden.de@surrealnetworks.io",
-    "organization": "laminat-parkett-vinylboden.de",
-    "logoText": "Laminat-parkett-vinylboden.de",
-    "title": "Laminat, Parkett & Vinylböden",
-    "subline": "Der Online Shop für Laminat, Parkett & Vinylböden",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "6222087",
-        "6555494",
-        "7197981",
-        "5229877",
-        "4136487",
-        "6536932"
-    ],
-    "winnerProducts": [
-        "1040559",
-        "7592249",
-        "4907853"
-    ],
-    "featuredCategories": [
-        "Laminatwerkzeug & Parkettverlegewerkzeug",
-        "Korkböden",
-        "Korkböden",
-        "Laminat",
-        "Leisten",
-        "Laminat"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Laminat, Parkett & Vinylböden",
-        "featureText": "Willkommen bei Ihrem Online-Shop für hochwertige Bodenbeläge! Entdecken Sie eine große Auswahl an Trittschalldämmung, Laminat- und Parkettwerkzeug, Vinylböden, Laminat, Zubehör, Leisten, Parkett, Korkböden und vielem mehr. Unsere Marken, wie Selit, Wolfcraft, Masterfloor, Sonstige, Excellent, Comfort, Excellent Plus, OBI, Praktikus, Parador, Classen Neo 2.0, Gerflor, Egger, LUX-TOOLS, Living by Haro, Classen, Parkett Freund, Döllken Profiles, Kaindl, Schöner Wohnen, Megafloor Laminat, Corklife und MineralPro, stehen für höchste Qualität und Langlebigkeit. Stöbern Sie jetzt durch unser Sortiment und finden Sie den perfekten Bodenbelag für Ihr Zuhause!",
-        "index": {
-            "title": "Ihr Online-Shop für Trittschalldämmung, Laminat & Parkett",
-            "metaDescription": "Kaufen Sie hochwertige Bodenbeläge & Werkzeuge in unserem Online-Shop. Top Marken wie Parador, Classen u.v.m. Best-Preis-Garantie. Jetzt entdecken!",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Laminat-Parkett-Vinylboden",
-                        "text": "Herzlich willkommen auf Laminat-Parkett-Vinylboden, Ihrem Online-Shop für hochwertige Bodenbeläge. Unsere Produkte umfassen Laminat, Parkett und Vinylböden, die Sie in verschiedenen Stilen und Farben finden können. Darüber hinaus bieten wir auch Trittschalldämmung, Werkzeuge und Zubehör für die Verlegung und den Abschluss dieser Bodenbeläge. Wir sind stolz darauf, nur die besten Produkte anzubieten, die aus hochwertigen Materialien hergestellt werden und eine lange Lebensdauer haben. Stöbern Sie durch unsere Kategorien und entdecken Sie Ihren neuen Bodenbelag bei Laminat-Parkett-Vinylboden."
-                    },
-                    {
-                        "title": "Trittschalldämmung",
-                        "text": "Wer in seinem Zuhause eine angenehme Trittschallreduzierung wünscht, sollte auf die Kategorie '<a href=\"/kategorie/trittschalldaemmung/\" title=\"Trittschalldämmung\">Trittschalldämmung</a>' achten. Wir bieten eine breite Auswahl an hochwertigen Trittschalldämmungen für alle Beläge, einschließlich Laminat, Parkett und Vinylboden. Unsere Trittschalldämmungen sorgen für eine optimale Schalldämmung und eine angenehme Atmosphäre in Ihrem Zuhause."
-                    },
-                    {
-                        "title": "Laminatwerkzeug & Parkettverlegewerkzeug",
-                        "text": "In der Kategorie '<a href=\"/kategorie/laminatwerkzeug-parkettverlegewerkzeug/\" title=\"Laminatwerkzeug & Parkettverlegewerkzeug\">Laminatwerkzeug & Parkettverlegewerkzeug</a>' finden Sie alles, was Sie für die Verlegung von Laminat- und Parkettböden benötigen. Von Zubehör wie Dichtungsstreifen und Übergangsschienen bis hin zu Spezialwerkzeugen wie Fugenschneidern und Stemmhämmern - wir haben alles, was Sie brauchen, um Ihre neuen Böden professionell zu verlegen."
-                    },
-                    {
-                        "title": "Vinylböden",
-                        "text": "In unserer Kategorie '<a href=\"/kategorie/vinylboeden/\" title=\"Vinylböden\">Vinylböden</a>' finden Sie eine große Auswahl an hochwertigen Vinylböden in verschiedenen Designs und Farben. Ob Sie nach einem robusten Bodenbelag für Ihre Küche oder einem eleganten Boden für Ihr Wohnzimmer suchen, wir haben die richtigen Vinylböden für jeden Raum und jeden Bedarf. Stöbern Sie durch unsere Produkte und finden Sie den perfekten Vinylboden für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Laminat",
-                        "text": "<a href=\"/kategorie/laminat/\" title=\"Laminat\">Laminat</a>böden sind eine hervorragende Alternative zu teureren Bodenbelägen wie Parkett oder Echtholz. Sie sehen genau so gut aus und sind einfach zu pflegen. In unserem Online-Shop finden Sie eine breite Auswahl an Laminatböden in verschiedenen Farben, Designs und Größen. Ob Sie einen modernen oder traditionellen Look bevorzugen, bei uns werden Sie fündig. Überzeugen Sie sich selbst von der hohen Qualität unserer Laminatböden."
-                    },
-                    {
-                        "title": "Zubehör für Laminat & Parkett",
-                        "text": "Um Ihren neuen Laminat- oder Parkettboden perfekt zu verlegen, benötigen Sie das richtige Zubehör. Bei uns finden Sie alles, was Sie brauchen, von Trittschalldämmung über Leisten bis hin zu Klebstoffen. Stöbern Sie in unserem Online-Shop und entdecken Sie das ideale Zubehör für Ihre Bodenverlegung. Unsere Produkte sind von hoher Qualität und sorgen dafür, dass Ihr neuer Boden perfekt verlegt wird."
-                    },
-                    {
-                        "title": "Leisten",
-                        "text": "<a href=\"/kategorie/leisten/\" title=\"Leisten\">Leisten</a> sind ein wichtiger Bestandteil bei der Verlegung von Laminat- oder Parkettböden. Sie vervollständigen das Aussehen Ihres Bodens und schützen ihn vor Schäden. Bei uns finden Sie eine große Auswahl an Leisten in verschiedenen Farben und Designs, die perfekt zu Ihrem Boden passen. Überzeugen Sie sich selbst von der hohen Qualität unserer Leisten und bestellen Sie noch heute."
-                    },
-                    {
-                        "title": "Parkett – Ein zeitloser Bodenbelag",
-                        "text": "Parkett ist ein zeitloser Bodenbelag, der sich in vielen Wohnräumen bewährt hat. Ob als Massivholzparkett oder als Fertigparkett, es gibt viele verschiedene Arten von Parkett. Unser Online-Shop bietet Ihnen eine große Auswahl an hochwertigen Parkettböden, die Ihren Wohnräumen ein stilvolles und elegantes Aussehen verleihen werden. Durch die große Auswahl an Farben, Designs und Strukturen können Sie genau das Parkett finden, das zu Ihrem Einrichtungsstil passt."
-                    },
-                    {
-                        "title": "Korkböden – Eine natürliche Alternative",
-                        "text": "Wenn Sie nach einer natürlichen Alternative zu herkömmlichen Bodenbelägen suchen, sind Korkböden eine großartige Wahl. Sie sind nicht nur ökologisch, sondern auch bequem und langlebig. Unser Online-Shop bietet Ihnen eine große Auswahl an Korkböden in verschiedenen Farben und Designs. Korkböden sind einfach zu verlegen und können einfach gereinigt werden. Zudem sind sie auch noch antistatisch und dämmend, was sie zu einer idealen Wahl für jeden Raum in Ihrem Zuhause macht."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Laminat, Parkett & Vinylböden Shop",
-            "metaDescription": "Laminat, Parkett & Vinylböden Shop - Hier findest du eine große Auswahl an verschiedenen Bodenbelägen für jeden Geschmack und jeden Geldbeutel.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Übersicht aller Marken in unserem Shop für Bodenbeläge",
-            "metaDescription": "Entdecke die Markenvielfalt bei uns: Selit, Wolfcraft, Masterfloor, LUX-TOOLS, Kaindl, Schöner Wohnen, uvm. Top-Qualität zu attraktiven Preisen.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | günstig kaufen",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER aus der Kategorie $KATEGORIE günstig kaufen auf laminat-parkett-vinylboden.de. Schnelle Lieferung, top Preis.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "laminat-parkett-vinylboden.de",
+  "hostname": "https://www.laminat-parkett-vinylboden.de/",
+  "email": "laminat-parkett-vinylboden.de@surrealnetworks.io",
+  "organization": "laminat-parkett-vinylboden.de",
+  "logoText": "Laminat-parkett-vinylboden.de",
+  "title": "Laminat, Parkett & Vinylb\u00f6den",
+  "subline": "Der Online Shop f\u00fcr Laminat, Parkett & Vinylb\u00f6den",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "6222087",
+    "6555494",
+    "7197981",
+    "5229877",
+    "4136487",
+    "6536932"
+  ],
+  "winnerProducts": [
+    "1040559",
+    "7592249",
+    "4907853"
+  ],
+  "featuredCategories": [
+    "Laminatwerkzeug & Parkettverlegewerkzeug",
+    "Korkb\u00f6den",
+    "Korkb\u00f6den",
+    "Laminat",
+    "Leisten",
+    "Laminat"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Laminat, Parkett & Vinylb\u00f6den",
+    "featureText": "Willkommen bei Ihrem Online-Shop f\u00fcr hochwertige Bodenbel\u00e4ge! Entdecken Sie eine gro\u00dfe Auswahl an Trittschalld\u00e4mmung, Laminat- und Parkettwerkzeug, Vinylb\u00f6den, Laminat, Zubeh\u00f6r, Leisten, Parkett, Korkb\u00f6den und vielem mehr. Unsere Marken, wie Selit, Wolfcraft, Masterfloor, Sonstige, Excellent, Comfort, Excellent Plus, OBI, Praktikus, Parador, Classen Neo 2.0, Gerflor, Egger, LUX-TOOLS, Living by Haro, Classen, Parkett Freund, D\u00f6llken Profiles, Kaindl, Sch\u00f6ner Wohnen, Megafloor Laminat, Corklife und MineralPro, stehen f\u00fcr h\u00f6chste Qualit\u00e4t und Langlebigkeit. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie den perfekten Bodenbelag f\u00fcr Ihr Zuhause!",
+    "index": {
+      "title": "Ihr Online-Shop f\u00fcr Trittschalld\u00e4mmung, Laminat & Parkett",
+      "metaDescription": "Kaufen Sie hochwertige Bodenbel\u00e4ge & Werkzeuge in unserem Online-Shop. Top Marken wie Parador, Classen u.v.m. Best-Preis-Garantie. Jetzt entdecken!",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Laminat-Parkett-Vinylboden",
+            "text": "Herzlich willkommen auf Laminat-Parkett-Vinylboden, Ihrem Online-Shop f\u00fcr hochwertige Bodenbel\u00e4ge. Unsere Produkte umfassen Laminat, Parkett und Vinylb\u00f6den, die Sie in verschiedenen Stilen und Farben finden k\u00f6nnen. Dar\u00fcber hinaus bieten wir auch Trittschalld\u00e4mmung, Werkzeuge und Zubeh\u00f6r f\u00fcr die Verlegung und den Abschluss dieser Bodenbel\u00e4ge. Wir sind stolz darauf, nur die besten Produkte anzubieten, die aus hochwertigen Materialien hergestellt werden und eine lange Lebensdauer haben. St\u00f6bern Sie durch unsere Kategorien und entdecken Sie Ihren neuen Bodenbelag bei Laminat-Parkett-Vinylboden."
+          },
+          {
+            "title": "Trittschalld\u00e4mmung",
+            "text": "Wer in seinem Zuhause eine angenehme Trittschallreduzierung w\u00fcnscht, sollte auf die Kategorie '<a href=\"/kategorie/trittschalldaemmung/\" title=\"Trittschalld\u00e4mmung\">Trittschalld\u00e4mmung</a>' achten. Wir bieten eine breite Auswahl an hochwertigen Trittschalld\u00e4mmungen f\u00fcr alle Bel\u00e4ge, einschlie\u00dflich Laminat, Parkett und Vinylboden. Unsere Trittschalld\u00e4mmungen sorgen f\u00fcr eine optimale Schalld\u00e4mmung und eine angenehme Atmosph\u00e4re in Ihrem Zuhause."
+          },
+          {
+            "title": "Laminatwerkzeug & Parkettverlegewerkzeug",
+            "text": "In der Kategorie '<a href=\"/kategorie/laminatwerkzeug-parkettverlegewerkzeug/\" title=\"Laminatwerkzeug & Parkettverlegewerkzeug\">Laminatwerkzeug & Parkettverlegewerkzeug</a>' finden Sie alles, was Sie f\u00fcr die Verlegung von Laminat- und Parkettb\u00f6den ben\u00f6tigen. Von Zubeh\u00f6r wie Dichtungsstreifen und \u00dcbergangsschienen bis hin zu Spezialwerkzeugen wie Fugenschneidern und Stemmh\u00e4mmern - wir haben alles, was Sie brauchen, um Ihre neuen B\u00f6den professionell zu verlegen."
+          },
+          {
+            "title": "Vinylb\u00f6den",
+            "text": "In unserer Kategorie '<a href=\"/kategorie/vinylboeden/\" title=\"Vinylb\u00f6den\">Vinylb\u00f6den</a>' finden Sie eine gro\u00dfe Auswahl an hochwertigen Vinylb\u00f6den in verschiedenen Designs und Farben. Ob Sie nach einem robusten Bodenbelag f\u00fcr Ihre K\u00fcche oder einem eleganten Boden f\u00fcr Ihr Wohnzimmer suchen, wir haben die richtigen Vinylb\u00f6den f\u00fcr jeden Raum und jeden Bedarf. St\u00f6bern Sie durch unsere Produkte und finden Sie den perfekten Vinylboden f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Laminat",
+            "text": "<a href=\"/kategorie/laminat/\" title=\"Laminat\">Laminat</a>b\u00f6den sind eine hervorragende Alternative zu teureren Bodenbel\u00e4gen wie Parkett oder Echtholz. Sie sehen genau so gut aus und sind einfach zu pflegen. In unserem Online-Shop finden Sie eine breite Auswahl an Laminatb\u00f6den in verschiedenen Farben, Designs und Gr\u00f6\u00dfen. Ob Sie einen modernen oder traditionellen Look bevorzugen, bei uns werden Sie f\u00fcndig. \u00dcberzeugen Sie sich selbst von der hohen Qualit\u00e4t unserer Laminatb\u00f6den."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Laminat & Parkett",
+            "text": "Um Ihren neuen Laminat- oder Parkettboden perfekt zu verlegen, ben\u00f6tigen Sie das richtige Zubeh\u00f6r. Bei uns finden Sie alles, was Sie brauchen, von Trittschalld\u00e4mmung \u00fcber Leisten bis hin zu Klebstoffen. St\u00f6bern Sie in unserem Online-Shop und entdecken Sie das ideale Zubeh\u00f6r f\u00fcr Ihre Bodenverlegung. Unsere Produkte sind von hoher Qualit\u00e4t und sorgen daf\u00fcr, dass Ihr neuer Boden perfekt verlegt wird."
+          },
+          {
+            "title": "Leisten",
+            "text": "<a href=\"/kategorie/leisten/\" title=\"Leisten\">Leisten</a> sind ein wichtiger Bestandteil bei der Verlegung von Laminat- oder Parkettb\u00f6den. Sie vervollst\u00e4ndigen das Aussehen Ihres Bodens und sch\u00fctzen ihn vor Sch\u00e4den. Bei uns finden Sie eine gro\u00dfe Auswahl an Leisten in verschiedenen Farben und Designs, die perfekt zu Ihrem Boden passen. \u00dcberzeugen Sie sich selbst von der hohen Qualit\u00e4t unserer Leisten und bestellen Sie noch heute."
+          },
+          {
+            "title": "Parkett \u2013 Ein zeitloser Bodenbelag",
+            "text": "Parkett ist ein zeitloser Bodenbelag, der sich in vielen Wohnr\u00e4umen bew\u00e4hrt hat. Ob als Massivholzparkett oder als Fertigparkett, es gibt viele verschiedene Arten von Parkett. Unser Online-Shop bietet Ihnen eine gro\u00dfe Auswahl an hochwertigen Parkettb\u00f6den, die Ihren Wohnr\u00e4umen ein stilvolles und elegantes Aussehen verleihen werden. Durch die gro\u00dfe Auswahl an Farben, Designs und Strukturen k\u00f6nnen Sie genau das Parkett finden, das zu Ihrem Einrichtungsstil passt."
+          },
+          {
+            "title": "Korkb\u00f6den \u2013 Eine nat\u00fcrliche Alternative",
+            "text": "Wenn Sie nach einer nat\u00fcrlichen Alternative zu herk\u00f6mmlichen Bodenbel\u00e4gen suchen, sind Korkb\u00f6den eine gro\u00dfartige Wahl. Sie sind nicht nur \u00f6kologisch, sondern auch bequem und langlebig. Unser Online-Shop bietet Ihnen eine gro\u00dfe Auswahl an Korkb\u00f6den in verschiedenen Farben und Designs. Korkb\u00f6den sind einfach zu verlegen und k\u00f6nnen einfach gereinigt werden. Zudem sind sie auch noch antistatisch und d\u00e4mmend, was sie zu einer idealen Wahl f\u00fcr jeden Raum in Ihrem Zuhause macht."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE bei laminat-parkett-vinylboden.de kaufen",
-        "defaultMetaDescription": "Entdecken Sie unser vielfältiges Sortiment an $KATEGORIE von Top-Marken wie Parador, Egger, & Masterfloor. Jetzt günstig online shoppen!",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Laminat, Parkett & Vinylb\u00f6den Shop",
+      "metaDescription": "Laminat, Parkett & Vinylb\u00f6den Shop - Hier findest du eine gro\u00dfe Auswahl an verschiedenen Bodenbel\u00e4gen f\u00fcr jeden Geschmack und jeden Geldbeutel.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": " Laminatböden von $HERSTELLER - Top Qualität online kaufen",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist für Laminat, Parkett & Vinylböden. Wir bieten Ihnen eine große Auswahl an hochwertigen Böden zu günstigen Preisen.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Laminat, Parkett & Vinylböden",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Laminat, Parkett & Vinylböden Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Laminat, Parkett & Vinylböden Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "\u00dcbersicht aller Marken in unserem Shop f\u00fcr Bodenbel\u00e4ge",
+      "metaDescription": "Entdecke die Markenvielfalt bei uns: Selit, Wolfcraft, Masterfloor, LUX-TOOLS, Kaindl, Sch\u00f6ner Wohnen, uvm. Top-Qualit\u00e4t zu attraktiven Preisen.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | g\u00fcnstig kaufen",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER aus der Kategorie $KATEGORIE g\u00fcnstig kaufen auf laminat-parkett-vinylboden.de. Schnelle Lieferung, top Preis.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE bei laminat-parkett-vinylboden.de kaufen",
+    "defaultMetaDescription": "Entdecken Sie unser vielf\u00e4ltiges Sortiment an $KATEGORIE von Top-Marken wie Parador, Egger, & Masterfloor. Jetzt g\u00fcnstig online shoppen!",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": " Laminatb\u00f6den von $HERSTELLER - Top Qualit\u00e4t online kaufen",
+    "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist f\u00fcr Laminat, Parkett & Vinylb\u00f6den. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen B\u00f6den zu g\u00fcnstigen Preisen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Laminat, Parkett & Vinylb\u00f6den",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Laminat, Parkett & Vinylb\u00f6den Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Laminat, Parkett & Vinylb\u00f6den Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
